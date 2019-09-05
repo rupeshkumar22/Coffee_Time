@@ -1,5 +1,5 @@
 # Coffee_Time
-Coffee Time is an android app which is capable of placing order and send that order via mail. Coffee Time app includes a well formed UI design for Login and Signup Process. It uses SQLite Helper class to manage all the created accounts and keep track of the respected orders of linked accounts. 
+Coffee Time is an android app which is capable of placing order and send that order via email. Coffee Time app includes a well formed UI design for Login and Signup Process. It uses SQLite Helper class to manage all the created accounts and keep track of the respected orders of linked accounts. 
 
 ## Key Features 
 
