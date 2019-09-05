@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">Coffee Time</string>
+    <string name="title_activity_main2">Coffee Time</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Coffee Time</string>
+    <string name="nav_header_subtitle">Welcome You</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+    <string name="github">https://github.com/rupesh-kumar-lpu/Coffee_Time</string>
+    <string name="Credits">App Developer- Rupesh Kumar\n
+    B.Tech CSE(Passout Batch 2021)\n
+    at Lovely Professional University, Punjab, India\n
+    The Project is created under the Summer Training (Batch June-July ) by Board Infinity\n
+    Special Thanks to the trainer- Aditya Gkar \n
+    Coffee Time is made with the aim of contributing and helping open source community for the betterment of food ordering system.\n
+    Key Features of the app-\n
+    •	The App has a Signup/ Login System which keeps track of the User Database and their respected orders.\n
+    •	It has a best in class User Interface and easy to place order system.\n
+    •	Order option in navigation menu shows the order placed list and calculate the final cost with respect to the price and quantity selected for each item.\n
+    •	It has a broadcast sender which shows you option to place the order by Email.\n
+    •	The app is currently working on SQLite Database (Local) and can be easily modified to online real time databases such as Firebase, My SQL or Volley API etc.\n
+    •	You can easily view the user database and orders record at login page(settings icon).\n
+
+    </string>
+</resources>
