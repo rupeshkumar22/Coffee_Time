@@ -5,7 +5,7 @@ Coffee Time is an android app which is capable of placing order and send that or
 
 * Login and Signup Accounts with SQLite open helper class.
 * Best in class UI design.
-* Keeps track of Accounts and there respected orders
+* Keeps track of Accounts and their respected orders
 * Add the items in order list.
 * Auto calculate the total amount need to be paid with respect to the price and quantity of the selected items.
 * Sends the order via email. 
